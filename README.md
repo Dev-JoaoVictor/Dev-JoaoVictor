@@ -1,7 +1,5 @@
 ### Olá, sou o João Victor 👋
 
-- 📖  Estudando Front-End
-
 <div align="center">
   <a href="https://github.com/Dev-JoaoVictor">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dev-joaovictor&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
