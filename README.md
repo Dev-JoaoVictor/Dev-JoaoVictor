@@ -1,6 +1,6 @@
 ### Olá, sou o João Victor 👋
 - Programador Front-End 💻
-- Estudando: JavaScript 🌳
+- Estudando: Mobile First 🌳
 
 <div align="center">
   <a href="https://github.com/Dev-JoaoVictor">
