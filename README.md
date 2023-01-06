@@ -1,4 +1,4 @@
-<div align="center"> <strong>Olá eu sou o João 👋 <br>
+<div align="center"> <strong>Olá, eu sou o João 👋 <br>
   Estudo atualmente: JavaScript 🌳</strong></div>
   <br>
 
