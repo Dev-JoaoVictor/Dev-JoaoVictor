@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/Dev-JoaoVictor">
-  <a href="https://git.io/streak-stats"><img height="150em" whidt="50em" src="https://streak-stats.demolab.com?user=Dev-JoaoVictor&theme=dracula&locale=pt_BRr"/></a> 
+ 
   <img height="150em" whidt="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaovictor&layout=compact&langs_count=7&theme=dracula"/>    
 </div>
   
