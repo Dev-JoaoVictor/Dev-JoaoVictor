@@ -1,5 +1,7 @@
 <div align="center"> <strong>Olá eu sou o João Victor, seja bem-vindo ao meu repositório👋 <br>
-  Atualmente estudo: JavaScript 🌳</strong></div> <br>
+  Atualmente estudo: JavaScript 🌳<br>
+  Cursando: Análise e Desenvolvimento de Sistemas 💻</strong></div> <br>
+  
 
 
 <div align="center">
