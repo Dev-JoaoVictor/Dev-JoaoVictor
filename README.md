@@ -1,13 +1,13 @@
 <div align="center"> <strong>Olá eu sou o João Victor, seja bem-vindo ao meu repositório👋 <br>
-  Atualmente estudo: JavaScript 🌳<br>
-  Cursando: Análise e Desenvolvimento de Sistemas 💻</strong></div> <br>
+  <br>Atualmente estudo: JavaScript 🌳<br>
+  1° Semestre - Análise e Desenvolvimento de Sistemas 💻</strong></div> <br>
   
 
 
 <div align="center">
   <a href="https://github.com/Dev-JoaoVictor">
   <a href="https://git.io/streak-stats"><img height="150em" width="400em" src="https://streak-stats.demolab.com?user=Dev-JoaoVictor&theme=dracula&locale=pt-  br&date_format=j%20M%5B%20Y%5D"/></a>
-  <img height="150em" whidth="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaovictor&layout=compact&langs_count=7&theme=dracula"/>   
+  <img height="150em" whidth="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaovictor&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
 <hr>
  <div align="center">
