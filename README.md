@@ -1,6 +1,6 @@
-<div align="center"> <strong>Olá eu sou o João Victor, seja bem-vindo ao meu repositório👋 <br>
-  <br>Atualmente estudo: JavaScript 🌳<br>
-  1° Semestre - Análise e Desenvolvimento de Sistemas 💻</strong></div> <br>
+<div align="center"> <strong>Hello I'm João Victor, welcome to my repository👋 <br>
+  <br>Currently studying: JavaScript 🌳<br>
+  1st Semester - Systems Analysis and Development 💻</strong></div> <br>
   
 
 
@@ -11,7 +11,7 @@
 </div>
 <hr>
  <div align="center">
-   <p><strong>Linguages e Frameworks</strong></p>
+   <p><strong>Languages and Frameworks</strong></p>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +24,7 @@
 </div>
 <hr>
   <div align="center">
-    <p><strong>Canais de contato</strong></p>
+    <p><strong>contact channels</strong></p>
     <a href="mailto:joaoliveira.contato@hotmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
