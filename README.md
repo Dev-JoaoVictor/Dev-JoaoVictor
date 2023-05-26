@@ -1,5 +1,5 @@
 <div align="center"> <strong>Hello I'm João Victor, welcome to my repository👋 <br>
-  <br>Currently studying: JavaScript 🌳<br>
+  <br>Currently studying: ReactJs 🌳<br>
   1st Semester - Systems Analysis and Development 💻</strong></div> <br>
   
 
