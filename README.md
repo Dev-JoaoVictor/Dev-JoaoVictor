@@ -9,7 +9,9 @@
   <a href="https://git.io/streak-stats"><img height="150em" width="400em" src="https://streak-stats.demolab.com?user=Dev-JoaoVictor&theme=dracula&locale=pt-  br&date_format=j%20M%5B%20Y%5D"/></a>
   <img height="150em" whidth="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaovictor&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
-<hr>
+  
+  <br>
+
  <div align="center">
    <p><strong>Languages and Frameworks</strong></p>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,7 +22,7 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" height="30" alt="joao-git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>         
 </div>
-<hr>
+  <br>
   <div align="center">
     <p><strong>Contact channels</strong></p>
     <a href="mailto:joaoliveira.contato@hotmail.com">
