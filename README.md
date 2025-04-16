@@ -7,15 +7,15 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 <br><br>
-- Desenvolvedor Frontend
+- Desenvolvedor Backend
 
 - 2 Anos de experiência
 
-- Estudando: Typescript
+- Estudando: Docker
 
 - Experiência com: Sites, Landing Pages e Portfolios...
 
-- Análise e Desenvolvimento de Sistemas / 3º Semestre
+- Análise e Desenvolvimento de Sistemas / 4º Semestre
 
 
 <br><br><br>
